@@ -1,8 +1,9 @@
 @model IEnumerable<Category>
 
 <ul>
-  @foreach (Category category in Model)
-  {
-    <li>@category.CategoryName</li>
-  }
+    @foreach (Category c in Model)
+    {
+        <li>@c.CategoryName - 
+            <i>@c.Description</i></li>
+    }
 </ul>
