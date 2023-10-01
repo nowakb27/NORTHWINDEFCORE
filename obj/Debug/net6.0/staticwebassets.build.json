@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "PHg2AEJJFRWZXHEHG8eblbd7nua2ikfrvFJalQQu1tQ=",
+  "Source": "NORTHWINDEFCORE",
+  "BasePath": "_content/NORTHWINDEFCORE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NORTHWINDEFCORE\\wwwroot",
+      "Source": "NORTHWINDEFCORE",
+      "ContentRoot": "C:\\Users\\BRANDO\\OneDrive - Waukesha County Technical College\\Documents\\EFCORE\\NORTHWINDEFCORE\\wwwroot\\",
+      "BasePath": "_content/NORTHWINDEFCORE",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\BRANDO\\OneDrive - Waukesha County Technical College\\Documents\\EFCORE\\NORTHWINDEFCORE\\wwwroot\\css\\client.css",
+      "SourceId": "NORTHWINDEFCORE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BRANDO\\OneDrive - Waukesha County Technical College\\Documents\\EFCORE\\NORTHWINDEFCORE\\wwwroot\\",
+      "BasePath": "_content/NORTHWINDEFCORE",
+      "RelativePath": "css/client.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\client.css"
+    },
+    {
+      "Identity": "C:\\Users\\BRANDO\\OneDrive - Waukesha County Technical College\\Documents\\EFCORE\\NORTHWINDEFCORE\\wwwroot\\js\\client.js",
+      "SourceId": "NORTHWINDEFCORE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BRANDO\\OneDrive - Waukesha County Technical College\\Documents\\EFCORE\\NORTHWINDEFCORE\\wwwroot\\",
+      "BasePath": "_content/NORTHWINDEFCORE",
+      "RelativePath": "js/client.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\client.js"
+    }
+  ]
+}
